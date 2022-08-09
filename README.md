@@ -22,7 +22,7 @@
 
 ## Social ##
 
-<p><a target="blank" href="https://www.linkedin.com/in/deivisonsm/">
+<p><a target="_blank" href="https://www.linkedin.com/in/deivisonsm/">
     <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
 </p>
 
